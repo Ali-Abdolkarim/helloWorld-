@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movies DB</string>
+    <string name="no_internet">no Internet</string>
+</resources>
